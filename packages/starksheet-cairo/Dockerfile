@@ -1,4 +1,4 @@
-FROM python:3.13.0a4-slim
+FROM python:3.13.0b1-slim
 
 # install poetry
 RUN curl -sSL https://install.python-poetry.org | python3 -
